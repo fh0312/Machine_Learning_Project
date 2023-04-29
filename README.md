@@ -5,7 +5,6 @@
   - Miguel Seabra - fc5####
   - Guilherme Marques - fc5####
 
-### The aim of this project is to create the best possible classification models for the given variable "Biodegradable" using any method covered in class. The models should examine different hyperparameters and select the best one, while preferring the simplest models.
 
 ### Aim:
   - Students should provide the best possible classification models using whatever method covered in class

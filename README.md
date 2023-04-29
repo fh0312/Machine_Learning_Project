@@ -1,6 +1,6 @@
 # EC_Projeto_2
 
-##Authors:
+## Authors:
   - Francisco Henriques - fc56348
   - Miguel Seabra - fc5####
   - Guilherme Marques - fc5####

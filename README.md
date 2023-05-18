@@ -2,8 +2,8 @@
 
 ## Authors:
   - Francisco Henriques - fc56348
-  - Miguel Seabra - fc5####
-  - Guilherme Marques - fc5####
+  - Miguel Seabra - fc56344
+  - Guilherme Marques - fc55472
 
 
 ### Aim:
